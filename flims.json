@@ -1,0 +1,205 @@
+[
+    {
+        "titre":"Shawshank",
+        "réalisateur":"Frank Darabont",
+        "dureé":142,
+        "dateProdaction":1994,
+        "image":"./filmsImages/Shawshank.jpg",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom"  : "Morgan",
+                "prénom"  : "Freeman",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Tim",
+                "prénom"  : "Robbins",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Clancy",
+                "prénom"  : "Brown",
+                "nationalité"    : "États-Unis"
+            }
+        ]
+    },
+    {
+        "titre":"Venom",
+        "réalisateur":"Ruben Fleischer, Andy Serkis",
+        "dureé":112 ,
+        "dateProdaction":2018,
+        "image":".//filmsImages/venom.jpg",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom"  : "Tom",
+                "prénom"  : "Hardy",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Michelle",
+                "prénom"  : "Williams",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Riz",
+                "prénom"  : "Ahmed",
+                "nationalité"    : "Britannique"
+            }
+        ]
+    },
+    {
+        "titre":"Rush Hour",
+        "réalisateur":"Brett Ratner",
+        "dureé":98,
+        "dateProdaction": 1998,
+        "image":".//filmsImages/rush hour.jpg",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom"  : "Jackie",
+                "prénom "  : "Chan",
+                "nationalité"    : "Hong Kong"
+            },
+            {
+                "nom"  : "Chris",
+                "prénom"  : "Tucker",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Julia",
+                "prénom"  : "Hsu",
+                "nationalité"    : "États-Unis"
+            }
+        ]
+    },
+    {
+        "titre":"The boy who harnessed the wind",
+        "réalisateur":"Chiwetel Ejiofor",
+        "dureé":113,
+        "dateProdaction":2019,
+        "image":".//filmsImages//TheBoyWhoHarnessedTheWind.png",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom"  : "Maxwell",
+                "prénom"  : "Simba",
+                "nationalité"    : "Malawian"
+            },
+            {
+                "nom"  : "Chiwetel",
+                "prénom"    : "Ejiofor",
+                "nationalité"  : "Nigériane"
+            },
+            {
+                "nom"  :"Lily",
+                "prénom"  : "Banda",
+                "nationalité"    : "Malawian"
+            }
+        ]
+    },
+    {
+        "titre":"Douze Hommes en colère",
+        "réalisateur":"Sidney Lumet",
+        "dureé":95,
+        "dateProdaction":1957,
+        "image":".//filmsImages/angryMen.png",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom"  : "Henry",
+                "prénom"  : "Fonda",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Lee J.",
+                "prénom"    : "Cobb",
+                "nationalité"  : "États-Unis"
+            },
+            {
+                "nom"  : "Ed",
+                "prénom"  : "Begley",
+                "nationalité"    : "États-Unis"
+            }
+        ]
+    },
+    {
+        "titre":"God Father",
+        "réalisateur":"Francis Ford Coppola",
+        "dureé":175,
+        "dateProdaction":1945,
+        "image":".//filmsImages/the god father.png",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom"  : "Marlon ",
+                "prénom"  : "Brando",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Alfredo James",
+                "prénom"    : "Pacino",
+                "nationalité"  : "États-Unis"
+            },
+            {
+                "nom"  : "James Edmund",
+                "prénom"  : "Caan",
+                "nationalité"    : "États-Unis"
+            }
+        ]
+    },
+    {
+        "titre":"God Father2",
+        "réalisateur":"Rancis Ford Coppola",
+        "dureé":203,
+        "dateProdaction":1974,
+        "image":"./filmsImages/TheGodFather.jpg",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom": "Alfredo James",
+                "prénom": "Pacino",
+                "nationalité": "États-Unis"
+            },
+            {
+                "nom"  : "Vito",
+                "prénom"    : "Corleone",
+                "nationalité"  : "États-Unis"
+            },
+            {
+                "nom"  : "Sonny",
+                "prénom"    : "Corleone",
+                "nationalité"  : "États-Unis"
+            }
+        ]
+    },
+    {
+        "titre":"The wolf of wall street",
+        "réalisateur":"Martin Scorsese",
+        "dureé":180,
+        "dateProdaction":2013,
+        "image":"./filmsImages/TheWolfofWallStreet.jpg",
+        "festivale":["Tanger", "Tetouan", "Casablanca"],
+        "acteur":[
+            {
+                "nom" : "Leonardo",
+                "prénom" : "DiCaprio",
+                "nationalité" : "États-Unis"
+            },
+            {
+                "nom"  : "Jonah",
+                "prénom"  : "Hill",
+                "nationalité"    : "États-Unis"
+            },
+            {
+                "nom"  : "Matthew",
+                "prénom"  : "McConaughey",
+                "nationalité"    : "États-Unis"
+            }
+        ]
+    }
+]
+
+
+
